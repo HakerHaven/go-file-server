@@ -1,0 +1,6 @@
+[app]
+dir = "./"
+
+[file]
+uploadPath = "E:\\test\\"
+
